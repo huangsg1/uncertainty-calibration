@@ -12,12 +12,13 @@ This is a collection of research and application papers of (uncertainty) calibra
 
 ### Non-parametric Method
 - **Hisogram Binning**: Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers. by Bianca Zadrozny et al. ICML, 2001.
-- **Bayesian Binning**: Obtaining well calibrated probabilities using bayesian binning. by MahdiPakdamanNaeini et al. AAAI, 2015
+- **Bayesian Binning**: Obtaining well calibrated probabilities using bayesian binning. by MahdiPakdamanNaeini et al. AAAI, 2015.
+
 - **Isotonic Regression**: Transforming classifier scores into accurate multiclass probability estimates. by Bianca Zadrozny et al. KDD, 2002.
 
 
 ### Semi-parametric Method
-- 
+- :Verified Uncertainty Calibration. by Ananya Kumar et al. NeurIPS 2020.
 
 ### Calibration Theory
 - 
