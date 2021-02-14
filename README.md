@@ -18,10 +18,17 @@ This is a collection of research and application papers of (uncertainty) calibra
 
 
 ### Semi-parametric Method
-- :Verified Uncertainty Calibration. by Ananya Kumar et al. NeurIPS 2020.
+- **Scaling-binning**:[Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
+- **Mix-n-Match**:[Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
 
 ### Calibration Theory
-- 
+- [Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
+- [Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
+
+### Applications
+#### Advertising
+- Field-aware Calibration: [A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](https://dl.acm.org/doi/abs/10.1145/3366423.3380154). by Feiyang Pan et al. WWW 2020 (Tencent).
+
 
 ## Other Links
-
+- ICML: 
