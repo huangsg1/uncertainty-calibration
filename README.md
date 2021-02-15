@@ -23,10 +23,13 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - **SIR**:[Calibrating User Response Predictions in Online Advertising](). by Chao Deng et al. PKKDD, 2020.
 
 ### Calibration Theory
+- [Binary Classifier Calibration: Non-parametric approach](https://arxiv.org/abs/1401.3390). by Mahdi Pakdaman Naeini et al. arXiv 2014.
 - [Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
+- [Distribution-free binary classification: prediction sets, confidence intervals and calibration](https://arxiv.org/abs/2006.10564). by Chirag Gupta et al. NeurIPS, 2020.
 - [Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
 - [Individual Calibration with Randomized Forecasting](http://proceedings.mlr.press/v119/zhao20e.html). by Shengjia Zhao et al. ICML, 2020.
 - [Post-hoc Calibration of Neural Networks](https://arxiv.org/abs/2006.12807). by Amir Rahimi et al. arXiv 2020.(Google)
+- [Non-Parametric Calibration for Classification](http://proceedings.mlr.press/v108/wenger20a.html). by Jonathan Wenger et al. AISTATS 2020.
 
 ### Applications
 #### Advertising
