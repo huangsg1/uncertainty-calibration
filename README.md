@@ -5,7 +5,7 @@ This is a collection of research and application papers of (uncertainty) calibra
 ### Parametric Method
 - **Platt scaling**: [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/Platt1999.pdf)[J]. by Platt J.  Advances in large margin classifiers, 1999.
 - **Temperature scaling**: [On calibration of modern neural networks](http://proceedings.mlr.press/v70/guo17a.html). by Chuan Guo et al. ICML, 2017. 
-  - **Attended temperature scaling**: [Attended temperature scaling: a practical approach for calibrating deep neural networks](https://arxiv.org/abs/1810.11586). by AzadehSadatMozafari et al. arXiv , 2018.
+- **Attended temperature scaling**: [Attended temperature scaling: a practical approach for calibrating deep neural networks](https://arxiv.org/abs/1810.11586). by AzadehSadatMozafari et al. arXiv , 2018.
 - **Dirichlet scaling**: [Obtaining well-calibrated multiclass probabilities with Dirichlet calibration](https://arxiv.org/abs/1910.12656). by Meelis Kull et al. arXiv, 2019.
 - **Beta calibration**: [A well-founded and easily implemented improvement on logistic calibration for binary classifiers](http://proceedings.mlr.press/v54/kull17a.html). by Meelis Kull et al. In Artificial Intelligence and Statistics, 2017.
 
