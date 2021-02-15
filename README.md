@@ -26,11 +26,17 @@ This is a collection of research and application papers of (uncertainty) calibra
 - [Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
 - [Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
 - [Individual Calibration with Randomized Forecasting](http://proceedings.mlr.press/v119/zhao20e.html). by Shengjia Zhao et al. ICML, 2020.
+- [Post-hoc Calibration of Neural Networks](https://arxiv.org/abs/2006.12807). by Amir Rahimi et al. arXiv 2020.(Google)
 
 ### Applications
 #### Advertising
 - Field-aware Calibration: [A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](https://dl.acm.org/doi/abs/10.1145/3366423.3380154). by Feiyang Pan et al. WWW 2020 (Tencent).
 - [Calibrating User Response Predictions in Online Advertising](). by Chao Deng et al. PKKDD, 2020 (Alibaba).
+
+### Calibration Metrics
+- [Mitigating bias in calibration error estimation](https://arxiv.org/abs/2012.08668) by Rebecca Roelofs et al. arXiv 2020.(Google)
+- [Measuring Calibration in Deep Learning](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf) by Jeremy Nixon et al. arXiv 2020.(Google)
+- [Calibration of Neural Networks using Splines](https://arxiv.org/abs/2006.12800) by Kartik Gupta et al. arXiv 2020.(Google)
 
 ## Datasets and Benchmarking
 
