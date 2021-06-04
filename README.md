@@ -36,7 +36,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 ### Applications（校准应用）
 #### Advertising
 - Field-aware Calibration: [A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](https://dl.acm.org/doi/abs/10.1145/3366423.3380154). by Feiyang Pan et al. WWW 2020 (Tencent).
-- [Calibrating User Response Predictions in Online Advertising](). by Chao Deng et al. PKKDD, 2020 (Alibaba).
+- [Calibrating User Response Predictions in Online Advertising](http://link.zhihu.com/?target=https%3A//www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a). by Chao Deng et al. PKKDD, 2020 (Alibaba).
 
 ### Calibration Metrics（评价方法）
 - [Mitigating bias in calibration error estimation](https://arxiv.org/abs/2012.08668) by Rebecca Roelofs et al. arXiv 2020.(Google)
