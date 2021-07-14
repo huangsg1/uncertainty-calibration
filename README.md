@@ -13,9 +13,8 @@ Calibration techniques are increasingly applied in the fields of computation adv
 
 ### Non-parametric Method（非参数化方法）
 - **Hisogram Binning**: [Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.3039&rep=rep1&type=pdf). by Bianca Zadrozny et al. ICML, 2001.
-- **Bayesian Binning**: [Obtaining well calibrated probabilities using bayesian binning](https://ojs.aaai.org/index.php/AAAI/article/view/9602). by MahdiPakdamanNaeini et al. AAAI, 2015.
-
 - **Isotonic Regression**: [Transforming classifier scores into accurate multiclass probability estimates](https://dl.acm.org/doi/abs/10.1145/775047.775151). by Bianca Zadrozny et al. KDD, 2002.
+- **Bayesian Binning**: [Obtaining well calibrated probabilities using bayesian binning](https://ojs.aaai.org/index.php/AAAI/article/view/9602). by MahdiPakdamanNaeini et al. AAAI, 2015.
 
 
 ### Semi-parametric Method（半参数化方法）
