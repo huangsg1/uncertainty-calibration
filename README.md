@@ -15,6 +15,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - **Hisogram Binning**: [Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.3039&rep=rep1&type=pdf). by Bianca Zadrozny et al. ICML, 2001.
 - **Isotonic Regression**: [Transforming classifier scores into accurate multiclass probability estimates](https://dl.acm.org/doi/abs/10.1145/775047.775151). by Bianca Zadrozny et al. KDD, 2002.
 - **Bayesian Binning**: [Obtaining well calibrated probabilities using bayesian binning](https://ojs.aaai.org/index.php/AAAI/article/view/9602). by MahdiPakdamanNaeini et al. AAAI, 2015.
+- [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
 
 
 ### Semi-parametric Method（半参数化方法）
@@ -31,6 +32,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - [Post-hoc Calibration of Neural Networks](https://arxiv.org/abs/2006.12807). by Amir Rahimi et al. arXiv 2020.(Google)
 - [Non-Parametric Calibration for Classification](http://proceedings.mlr.press/v108/wenger20a.html). by Jonathan Wenger et al. AISTATS 2020.
 - [Don’t Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification](https://arxiv.org/pdf/2102.07856.pdf) by Yu Bai et al. ICML, 2021.
+- [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
 
 ### Applications（校准应用）
 #### Advertising
@@ -53,7 +55,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
   
 ### 待归类
 - [Meta-Cal: Well-controlled Post-hoc Calibration by Ranking](https://arxiv.org/pdf/2105.04290.pdf) by Xingchen Ma et al. ICML, 2021.
-- [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
+
 
 ---
 ## 中文材料
