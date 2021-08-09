@@ -34,12 +34,12 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - [Don’t Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification](https://arxiv.org/pdf/2102.07856.pdf) by Yu Bai et al. ICML, 2021.
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
 
-### Applications（校准应用）
-#### Advertising
+## Applications（校准应用）
+### Advertising
 - Field-aware Calibration: [A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](https://dl.acm.org/doi/abs/10.1145/3366423.3380154). by Feiyang Pan et al. WWW 2020 (Tencent).
 - [Calibrating User Response Predictions in Online Advertising](http://link.zhihu.com/?target=https%3A//www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a). by Chao Deng et al. PKKDD, 2020 (Alibaba).
 
-### Calibration Metrics（评价方法）
+## Calibration Metrics（评价方法）
 - [Mitigating bias in calibration error estimation](https://arxiv.org/abs/2012.08668) by Rebecca Roelofs et al. arXiv 2020.(Google)
 - [Measuring Calibration in Deep Learning](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Nixon_Measuring_Calibration_in_Deep_Learning_CVPRW_2019_paper.pdf) by Jeremy Nixon et al. arXiv 2020.(Google)
 - [Calibration of Neural Networks using Splines](https://arxiv.org/abs/2006.12800) by Kartik Gupta et al. arXiv 2020.(Google)
@@ -53,7 +53,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
   - ICML: Trustworthy Machine Learning (accountability, causality, fairness, privacy, robustness, etc.)
     - [ICML 2021 Accepted List](https://icml.cc/Conferences/2021/AcceptedPapersInitial) 
   
-### 待归类
+## 待归类
 - [Meta-Cal: Well-controlled Post-hoc Calibration by Ranking](https://arxiv.org/pdf/2105.04290.pdf) by Xingchen Ma et al. ICML, 2021.
 
 
