@@ -55,7 +55,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 
 ---
 ## 中文材料
-- [阿里巴巴展示广告校准技术演进之路](https://mp.weixin.qq.com/s/9bqR14Qnbdy6kVB31gTjqw)
+- [阿里巴巴展示广告校准技术演进之路](https://zhuanlan.zhihu.com/p/398235467)
 
 ## 待归类
 - [Meta-Cal: Well-controlled Post-hoc Calibration by Ranking](https://arxiv.org/pdf/2105.04290.pdf) by Xingchen Ma et al. ICML, 2021.
