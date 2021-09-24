@@ -18,7 +18,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
 
 
-### Semi-parametric Method（半参数化方法）
+### Hybrid Method（参数&非参数混合方法）
 - **Scaling-binning**:[Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
 - **Mix-n-Match**:[Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
 - **SIR**:[Calibrating User Response Predictions in Online Advertising](http://link.zhihu.com/?target=https%3A//www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a). by Chao Deng et al. PKKDD, 2020. **(Our work)**
@@ -33,6 +33,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - [Non-Parametric Calibration for Classification](http://proceedings.mlr.press/v108/wenger20a.html). by Jonathan Wenger et al. AISTATS 2020.
 - [Don’t Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification](https://arxiv.org/pdf/2102.07856.pdf) by Yu Bai et al. ICML, 2021.
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
+- [Meta-Cal: Well-controlled Post-hoc Calibration by Ranking](https://arxiv.org/pdf/2105.04290.pdf) by Xingchen Ma et al. ICML, 2021.
 
 ## Applications（校准应用）
 ### Advertising
@@ -51,11 +52,9 @@ Calibration techniques are increasingly applied in the fields of computation adv
 ## Other Links
 - Research Track
   - ICML: Trustworthy Machine Learning (accountability, causality, fairness, privacy, robustness, etc.)
-    - [ICML 2021 Accepted List](https://icml.cc/Conferences/2021/AcceptedPapersInitial) 
+    - [ICML 2021 Accepted List](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
+  - NIPS: xxx 
 
 ---
 ## 中文材料
 - [阿里巴巴展示广告校准技术演进之路](https://zhuanlan.zhihu.com/p/398235467)
-
-## 待归类
-- [Meta-Cal: Well-controlled Post-hoc Calibration by Ranking](https://arxiv.org/pdf/2105.04290.pdf) by Xingchen Ma et al. ICML, 2021.
