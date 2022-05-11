@@ -57,8 +57,7 @@ Calibration techniques are increasingly applied in the fields of computation adv
 - Research Track
   - ICML: Trustworthy Machine Learning (accountability, causality, fairness, privacy, robustness, etc.)
     - [ICML 2021 Accepted List](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
-  - NIPS: xxx 
-
+ 
 ---
 ## 6. 中文材料
 - [阿里巴巴展示广告校准技术演进之路](https://zhuanlan.zhihu.com/p/398235467)
