@@ -1,5 +1,5 @@
 # Uncertainty Calibration（预估校准技术）
-Calibration techniques are increasingly applied in the fields of computation advertising，medical diagnosis and meteorological forecasting etc. This is a collection of research and application papers of (uncertainty) calibration techniques. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（email:hsg01993@gmail.com, Wechat:hsg_coder_2）.
+Calibration techniques are increasingly applied in the fields of computation advertising，medical diagnosis and meteorological forecasting etc. This is a collection of research and application papers of (uncertainty) calibration techniques. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（email:hsg01993@gmail.com, Wechat:coder_hh）.
 
 ## 1. Papers
 ### Parametric Method（参数化方法）
