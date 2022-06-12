@@ -62,4 +62,5 @@ Calibration techniques are increasingly applied in the fields of computation adv
 ## 6. 中文材料
 - [阿里巴巴展示广告校准技术演进之路](https://zhuanlan.zhihu.com/p/398235467)
 - [MBCT：基于树模型的特征可感知的个性化校准方法](https://zhuanlan.zhihu.com/p/516779767)
+- [AdaCalib: 后验引导的特征自适应预估校准](https://zhuanlan.zhihu.com/p/520272718)
 - [算法实践_专栏](https://www.zhihu.com/column/c_1514240377606926336)
