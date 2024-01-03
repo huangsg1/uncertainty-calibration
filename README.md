@@ -2,7 +2,8 @@
 > Calibration techniques are increasingly applied in the fields of computation advertising，medical diagnosis and meteorological forecasting etc. This is a collection of research and application papers of (uncertainty) calibration techniques. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（email:hsg01993@gmail.com, Wechat:coder_hh）.
 
 ## 1. Papers
-### Parametric Method（参数化方法）
+### Post-hoc Calibrator（后处理方法）
+#### Parametric Method（参数化方法）
 - **Platt scaling**: [Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods](https://home.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/Platt1999.pdf)[J]. by Platt J.  Advances in large margin classifiers, 1999.
 - **Temperature scaling**: [On calibration of modern neural networks](http://proceedings.mlr.press/v70/guo17a.html). by Chuan Guo et al. ICML, 2017. 
 - **Beta calibration**: [A well-founded and easily implemented improvement on logistic calibration for binary classifiers](http://proceedings.mlr.press/v54/kull17a.html). by Meelis Kull et al. In Artificial Intelligence and Statistics, 2017.
@@ -11,18 +12,25 @@
 
 
 
-### Non-parametric Method（非参数化方法）
+#### Non-parametric Method（非参数化方法）
 - **Hisogram Binning**: [Obtaining calibrated probability estimates from decision trees and naive bayesian classifiers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.3039&rep=rep1&type=pdf). by Bianca Zadrozny et al. ICML, 2001.
 - **Isotonic Regression**: [Transforming classifier scores into accurate multiclass probability estimates](https://dl.acm.org/doi/abs/10.1145/775047.775151). by Bianca Zadrozny et al. KDD, 2002.
 - **Bayesian Binning**: [Obtaining well calibrated probabilities using bayesian binning](https://ojs.aaai.org/index.php/AAAI/article/view/9602). by MahdiPakdamanNaeini et al. AAAI, 2015.
 - [Distribution-free calibration guarantees for histogram binning without sample splitting](https://arxiv.org/pdf/2105.04656.pdf) by Chirag Gupta et al. ICML, 2021.
 
 
-### Hybrid Method（参数&非参数混合方法）
+#### Hybrid Method（参数&非参数混合方法）
 - **Scaling-binning**:[Verified Uncertainty Calibration](https://arxiv.org/abs/1909.10155). by Ananya Kumar et al. NeurIPS, 2020.
 - **Mix-n-Match**:[Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning](http://proceedings.mlr.press/v119/zhang20k.html). by Jize Zhang et al. ICML 2020.
 - **SIR**:[Calibrating User Response Predictions in Online Advertising](http://link.zhihu.com/?target=https%3A//www.semanticscholar.org/paper/Calibrating-User-Response-Predictions-in-Online-Deng-Wang/678d93dba3003dc30fcfa2e29c93b009834dcd0a). by Chao Deng et al. PKKDD, 2020. **(Our work)**
 - **MBCT**:[Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration](https://arxiv.org/abs/2202.04348). by Siguang Huang et al. WWW, 2022. **(Our work)**
+
+### Calibrated Predictor（与模型直接结合的方法）
+- Field-aware Calibration: [A Simple and Empirically Strong Method for Reliable Probabilistic Predictions](https://dl.acm.org/doi/abs/10.1145/3366423.3380154). by Feiyang Pan et al. WWW 2020 (Tencent).
+- [Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising](https://arxiv.org/abs/2205.07295). by Penghui Wei et al. SIGIR 2022. (Alibaba)
+  - [中文链接](https://zhuanlan.zhihu.com/p/520272718)
+- [Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model](https://arxiv.org/pdf/2208.06164.pdf). by Xiang-Rong Sheng et al. KDD 2023. (Alibaba)
+  - [中文链接](https://zhuanlan.zhihu.com/p/638414676)    
 
 ### Calibration Theory（校准理论分析）
 - [Binary Classifier Calibration: Non-parametric approach](https://arxiv.org/abs/1401.3390). by Mahdi Pakdaman Naeini et al. arXiv 2014.
