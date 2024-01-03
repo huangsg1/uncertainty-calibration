@@ -64,7 +64,7 @@
 ## 5. Other Links
 - Research Track
   - ICML: Trustworthy Machine Learning (accountability, causality, fairness, privacy, robustness, etc.)
-    - [ICML 2021 Accepted List](https://icml.cc/Conferences/2021/AcceptedPapersInitial)
+
  
 ---
 ## 6. 中文材料
